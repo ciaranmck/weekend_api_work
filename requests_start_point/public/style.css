@@ -1,0 +1,8 @@
+li.nobullet {
+  list-style-type: none;
+}
+
+ul {
+  list-style: none;
+  margin: 3px;
+}
